@@ -1,0 +1,318 @@
+%-------------------------------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------------------------------
+% preamble tegund skjals
+\documentclass[12pt,b5paper,twosided,openright]{book}
+
+\usepackage{fontspec}
+\setmainfont[Numbers=OldStyle,Ligatures=TeX]{linux libertine} 
+\setlength\parskip{0pt}
+
+\usepackage{polyglossia}
+\setdefaultlanguage{icelandic}
+
+\usepackage[margin=1.5cm]{geometry}
+\linespread{1.3}
+
+\usepackage{xcolor}
+\definecolor{svart}{RGB}{0,0,0}
+\definecolor{hvitt}{RGB}{255,255,255}
+\definecolor{rautt}{RGB}{255,0,0}
+\definecolor{gult}{RGB}{255,255,0}
+\definecolor{graent}{RGB}{0,255,0}
+
+% Kaflatitlar
+\usepackage{titlesec,titletoc}
+
+% chapter
+\titleformat{\chapter}
+{\normalfont\Huge}
+{\scshape \oldstylenums{\thechapter}{.}}
+{1ex minus .1ex}
+{\normalfont\Huge}
+\titlespacing*{\chapter}
+{0pt}{10pt}{10pt}%
+
+% section
+\titleformat{\section}
+{\normalfont\LARGE}
+{\scshape \oldstylenums{\thesection}}
+{1ex minus .1ex}
+{\normalfont\LARGE}
+\titlespacing*{\section}
+{0pt}{30pt}{16pt}
+
+% subsection
+\titleformat{\subsection}
+{\normalfont\Large\bfseries\itshape}
+{\scshape \oldstylenums{\thesubsection}}
+{1ex minus .1ex}
+{\normalfont\Large\bfseries\itshape}
+\titlespacing*{\subsection}
+{0pt}{30pt}{16pt}
+
+% subsubsection
+\titleformat{\subsubsection}
+{\normalfont\large\bfseries}
+{\scshape \oldstylenums{\thesubsubsection}}
+{1ex minus .1ex}
+{\normalfont\large\bfseries}
+\titlespacing*{\subsubsection}
+{0pt}{30pt}{16pt}
+
+\usepackage[font=footnotesize,skip=6pt]{caption}
+\captionsetup{justification=centering}
+
+\usepackage{array}
+\newcolumntype{B}{>{\bfseries}l}
+
+\usepackage{subfiles} 
+
+%\usepackage{imakeidx}
+%\makeindex[program=xindy,columns=3,intoc,options=-C utf8 -L icelandic -s index.ist]
+
+\usepackage[listings,skins,breakable,magazine,raster]{tcolorbox}
+\tcbset{colback=black!5,boxrule=1pt}
+
+\usepackage{tabularx}
+
+\usepackage{amssymb}
+
+\setlength\floatsep{0.5\baselineskip plus 3pt minus 2pt}
+\setlength\textfloatsep{0.5\baselineskip plus 3pt minus 2pt}
+\setlength\intextsep{0.5\baselineskip plus 3pt minus 2 pt}
+
+\usepackage{float}
+% orðalistar
+\floatstyle{plain}
+\newfloat{wordlist}{tbhp}{lol}[chapter]
+\floatname{wordlist}{Orðalisti}
+
+% bigwordlist (eyða eftir cleanup)
+\makeatletter
+\newenvironment{bigwordlist}
+  {
+     \refstepcounter{wordlist}
+     \renewcommand{\caption}[2][\relax]{
+       {\center\textbf{\fname@wordlist~\thewordlist} ##2\par}
+       \ifx\relax##1\relax 
+         \addcontentsline{lol}{wordlist}{\protect\numberline{\thewordlist}##2}
+       \else 
+         \addcontentsline{lol}{wordlist}{\protect\numberline{\thewordlist}##1}
+       \fi
+     }
+  }{
+  }
+\makeatother
+
+% delete after cleanup
+\usepackage{multicol}
+
+\pagestyle{plain}
+\raggedbottom
+\begin{document}
+
+\begingroup
+\renewcommand{\cleardoublepage}{}
+\renewcommand{\clearpage}{}
+	\tableofcontents
+	\listoftables
+	\listof{wordlist}{Orðalistaskrá}
+	\listoffigures
+\endgroup
+
+% ---------------------------------------------------------------
+% Kafli - svartur
+\chapter{\textit{svartur}}
+\label{kafli:svartur}
+
+% mynd
+\begin{figure}[H]
+\begin{tcolorbox}
+	\centering
+	\begin{tikzpicture}
+		\node[draw=svart,fill=svart,rectangle,minimum size=10cm] (svart) at (0,0) {};
+	\end{tikzpicture}
+\end{tcolorbox}
+	\caption{svartur litur}
+	\label{mynd:svartur}
+\end{figure}
+
+\begin{quote}
+	sem er á litinn eins og kol, koldökkur, myrkur; \\
+	ógalvaníseraður, ekki sinkhúðaður; \\
+	(fornt, úrelt) svarthærður;  \\
+	dimmur, myrkur; \\
+	skuggalegur; \\
+	(um viðskipti, atvinnu) ólöglegur (einkum í skattalegum efnum)
+\end{quote}
+
+% Undirkafli - afleiðslur
+\section{Afleiðslur með \textit{svartur}}
+\label{afl:svartafl}
+\subfile{afl/svartafl}
+
+% Undirkafli - samsetningar
+\section{Tíðnitöflur samsetninga með \textit{svartur}}
+\label{tidni:svartid}
+\subfile{tidni/svartid}
+
+% ------------------------------------------------------------------
+% Kafli - hvítur
+\chapter{\textit{hvítur}}
+\label{kafli:hvitur}
+
+\begin{figure}[H]
+\begin{tcolorbox}
+	\centering
+	\begin{tikzpicture}
+		\node[draw=svart,fill=hvitt,rectangle,minimum size=10cm] (hvitt) at (0,0) {};
+	\end{tikzpicture}
+\end{tcolorbox}
+	\caption{hvítur litur}
+	\label{mynd:hvitt}
+\end{figure}
+
+\begin{quote}
+	sem er á litinn eins og nýfallinn snjór; \\
+	meinlaus; \\
+	(skáldamál) ómálaður;\\
+	(fornt/úrelt) huglaus, blauður \\
+\end{quote}
+\clearpage
+
+% Undirkafli - afleiðslur
+\section{Afleiðslur með \textit{hvítur}}
+\label{afl:hvitafl}
+\subfile{afl/hvitafl}
+
+% Undirkafli - tíðni
+\section{Tíðnitöflur samsetninga með \textit{hvítur}}
+\label{tidni:hvitid}
+\subfile{tidni/hvitid}
+
+% ----------------------------------------------------------------------------
+% Kafli - rauður
+\chapter{\textit{rauður}}
+\label{kafli:raudur}
+
+\begin{figure}[H]
+\begin{tcolorbox}
+	\centering
+	\begin{tikzpicture}
+		\node[draw=svart,fill=rautt,rectangle,minimum size=10cm] (hvitt) at (0,0) {};
+	\end{tikzpicture}
+\end{tcolorbox}
+	\caption{rauður litur}
+	\label{mynd:rautt}
+\end{figure}
+
+\begin{quote}
+	sem hefur lit blóðs; \\
+	rauðbrúnn; \\
+	í ýmsum orðasamböndum; \\
+	vinstrisinnaður, sósíalískur, kommúnískur, róttækur í stjórnmálum; \\
+	snjólaus, auður; \\
+	til áherslu
+\end{quote}
+\clearpage
+
+% Undirkafli - afleiðslur
+\section{Afleiðslur með \textit{rauður}}
+\label{afl:raudafl}
+\subfile{afl/raudafl}
+
+% Undirkafli - tíðnitöflur rauður
+\section{Tíðnitöflur samsetninga með \textit{rauður}}
+\label{tidni:raudtid}
+\subfile{tidni/raudtid}
+
+% ------------------------------------------------------------------------------------------
+% Kafli - gulur
+\chapter{\textit{gulur}}
+\label{kafli:gulur}
+
+\begin{figure}[H]
+\begin{tcolorbox}
+	\centering
+	\begin{tikzpicture}
+		\node[draw=svart,fill=gult,rectangle,minimum size=10cm] (gult) at (0,0) {};
+	\end{tikzpicture}
+\end{tcolorbox}
+	\caption{gulur litur}
+	\label{mynd:gult}
+\end{figure}
+
+\begin{quote}
+með lit sólar eða sítrónu; \\
+(um sauðfé) hvít ull að mestu eða öllu leyti, haus, hnakki og fætur gulleitir
+\end{quote}
+\clearpage
+
+% Undirkafli - afleiðslur
+\section{Afleiðslur með \textit{gulur}}
+\label{afl:gulafl}
+\subfile{afl/gulafl}
+
+% Undirkafli - tíðnitöflur gulur
+\section{Tíðnitöflur samsetninga með \textit{gulur}}
+\label{tidni:gulur}
+\subfile{tidni/gultid}
+
+% -------------------------------------------------------------------------------------
+% Kafli - grænn
+\chapter{\textit{grænn}}
+\label{kafli:graenn}
+
+\begin{figure}[H]
+\begin{tcolorbox}
+	\centering
+	\begin{tikzpicture}
+		\node[draw=svart,fill=graent,rectangle,minimum size=10cm] (graent) at (0,0) {};
+	\end{tikzpicture}
+\end{tcolorbox}
+	\caption{grænn litur}
+	\label{mynd:graent}
+\end{figure}
+
+\begin{quote}
+með lit gróandi grass og plantna; \\
+umhverfisvænn; \\
+(fornt/úrelt) nýr, ferskur; \\
+heimskur, barnalegur; \\
+reynskulaus; \\
+notað til áherslu
+\end{quote}
+
+% Undirkafli - afleiðslur
+\section{Afleiðslur með \textit{grænn}}
+\label{afl:graenafl}
+\subfile{afl/graenafl}
+
+% Undirkafli - tíðnitöflur gulur
+\section{Tíðnitöflur samsetninga með \textit{grænn}}
+\label{tidni:graentid}
+\subfile{tidni/graentid}
+
+
+% Viðauki  - Tíðnitöflur blár
+\chapter{Tíðnitöflur \textit{blár}}
+\label{auki:blarauk}
+\subfile{sec/auk/blarauk}
+
+% Viðauki  - Tíðnitöflur brúnn
+\chapter{Tíðnitöflur \textit{brúnn}}
+\label{auki:brunauk}
+\subfile{sec/auk/brunauk}
+
+% Viðauki  - Tíðnitöflur grár
+\chapter{Tíðnitöflur \textit{grár}}
+\label{auki:grarauk}
+\subfile{sec/auk/grarauk}
+
+% Viðauki  - Tíðnitöflur bleikur
+\chapter{Tíðnitöflur \textit{bleikur}}
+\label{auki:bleikauk}
+\subfile{sec/auk/bleikauk}
+
+%\printindex
+\end{document}
