@@ -1,0 +1,30 @@
+\selectlanguage *{icelandic}
+\contentsline {chapter}{\numberline {1}\textit {svartur}}{10}{}%
+\contentsline {section}{\numberline {1.1}Afleiðslur með \textit {svartur}}{11}{}%
+\contentsline {section}{\numberline {1.2}Tíðnitöflur samsetninga með \textit {svartur}}{12}{}%
+\contentsline {chapter}{\numberline {2}\textit {hvítur}}{26}{}%
+\contentsline {section}{\numberline {2.1}Afleiðslur með \textit {hvítur}}{27}{}%
+\contentsline {section}{\numberline {2.2}Tíðnitöflur samsetninga með \textit {hvítur}}{28}{}%
+\contentsline {chapter}{\numberline {3}\textit {rauður}}{44}{}%
+\contentsline {section}{\numberline {3.1}Afleiðslur með \textit {rauður}}{45}{}%
+\contentsline {section}{\numberline {3.2}Tíðnitöflur samsetninga með \textit {rauður}}{46}{}%
+\contentsline {chapter}{\numberline {4}\textit {gulur}}{64}{}%
+\contentsline {section}{\numberline {4.1}Afleiðslur með \textit {gulur}}{65}{}%
+\contentsline {section}{\numberline {4.2}Tíðnitöflur samsetninga með \textit {gulur}}{66}{}%
+\contentsline {chapter}{\numberline {5}\textit {grænn}}{74}{}%
+\contentsline {section}{\numberline {5.1}Afleiðslur með \textit {grænn}}{75}{}%
+\contentsline {section}{\numberline {5.2}Tíðnitöflur samsetninga með \textit {grænn}}{76}{}%
+\contentsline {chapter}{\numberline {6}\textit {blár}}{88}{}%
+\contentsline {section}{\numberline {6.1}Afleiðslur með \textit {blár}}{89}{}%
+\contentsline {section}{\numberline {6.2}Tíðnitöflur samsetningar með \textit {blár}}{90}{}%
+\contentsline {chapter}{\numberline {7}\textit {brúnn}}{109}{}%
+\contentsline {section}{\numberline {7.1}Afleiðslur með \textit {brúnn}}{110}{}%
+\contentsline {section}{\numberline {7.2}Tíðnitöflur samsetninga með \textit {brúnn}}{111}{}%
+\contentsline {chapter}{\numberline {8}\textit {grár}}{119}{}%
+\contentsline {section}{\numberline {8.1}Afleiðslur með \textit {grár}}{120}{}%
+\contentsline {section}{\numberline {8.2}Tíðnitöflur samsetninga með \textit {grár}}{121}{}%
+\contentsline {chapter}{\numberline {9}\textit {bleikur}}{132}{}%
+\contentsline {section}{\numberline {9.1}Afleiðslur með \textit {bleikur}}{133}{}%
+\contentsline {section}{\numberline {9.2}Tíðnitöflur samsetninga með \textit {bleikur}}{134}{}%
+\contentsline {chapter}{Atriðisorðaskrá}{144}{}%
+\contentsfinish 

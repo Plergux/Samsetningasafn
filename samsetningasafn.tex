@@ -1,7 +1,7 @@
 %-------------------------------------------------------------------------------------------------------
 %-------------------------------------------------------------------------------------------------------
 % preamble tegund skjals
-\documentclass[12pt,b5paper,twosided,openright]{book}
+\documentclass[12pt,b5paper,twosided,openany]{book}
 
 \usepackage{fontspec}
 \setmainfont[Numbers=OldStyle,Ligatures=TeX]{linux libertine} 
@@ -19,6 +19,10 @@
 \definecolor{rautt}{RGB}{255,0,0}
 \definecolor{gult}{RGB}{255,255,0}
 \definecolor{graent}{RGB}{0,255,0}
+\definecolor{blatt}{RGB}{0,0,255}
+\definecolor{brunt}{RGB}{90,60,30}
+\definecolor{gratt}{RGB}{127,127,127}
+\definecolor{bleikt}{RGB}{255,0,255}
 
 % Kaflatitlar
 \usepackage{titlesec,titletoc}
@@ -67,8 +71,8 @@
 
 \usepackage{subfiles} 
 
-%\usepackage{imakeidx}
-%\makeindex[program=xindy,columns=3,intoc,options=-C utf8 -L icelandic -s index.ist]
+\usepackage{imakeidx}
+\makeindex[program=xindy,columns=3,intoc,options=-C utf8 -L icelandic -s index.ist]
 
 \usepackage[listings,skins,breakable,magazine,raster]{tcolorbox}
 \tcbset{colback=black!5,boxrule=1pt}
@@ -293,26 +297,142 @@ notað til áherslu
 \label{tidni:graentid}
 \subfile{tidni/graentid}
 
+% ----------------------------------------------------------------------------------------
+% Kafli - blár
+\chapter{\textit{blár}}
+\label{kafli:blar}
 
-% Viðauki  - Tíðnitöflur blár
-\chapter{Tíðnitöflur \textit{blár}}
-\label{auki:blarauk}
-\subfile{sec/auk/blarauk}
+\begin{figure}[H]
+\begin{tcolorbox}
+	\centering
+	\begin{tikzpicture}
+		\node[draw=svart,fill=blatt,rectangle,minimum size=10cm] (blatt) at (0,0) {};
+	\end{tikzpicture}
+\end{tcolorbox}
+	\caption{blár litur}
+	\label{mynd:blatt}
+\end{figure}
 
-% Viðauki  - Tíðnitöflur brúnn
-\chapter{Tíðnitöflur \textit{brúnn}}
-\label{auki:brunauk}
-\subfile{sec/auk/brunauk}
+\begin{quote}
+með lit heiðs himins eða hafdjúps í ýmsum blæbrigðum; \\
+(fornt/úrelt) dökkur, svartur; \\
+eintómur, þunnur, óblandaður; \\
+einfaldur; \\
+(óformlega) djarfur í umfjöllun um kynferðismál
+\end{quote}
+\clearpage
 
-% Viðauki  - Tíðnitöflur grár
-\chapter{Tíðnitöflur \textit{grár}}
-\label{auki:grarauk}
-\subfile{sec/auk/grarauk}
+% Undirkafli - afleiðslur
+\section{Afleiðslur með \textit{blár}}
+\label{afl:blafl}
+\subfile{afl/blafl}
 
-% Viðauki  - Tíðnitöflur bleikur
-\chapter{Tíðnitöflur \textit{bleikur}}
-\label{auki:bleikauk}
-\subfile{sec/auk/bleikauk}
+% Undirkafli - Tíðnitöflur blár
+\section{Tíðnitöflur samsetningar með \textit{blár}}
+\label{tidni:blatid}
+\subfile{tidni/blatid}
 
-%\printindex
+% ----------------------------------------------------------------------------------------------
+% Kafli - brúnn
+\chapter{\textit{brúnn}}
+\label{kafli:brunn}
+
+\begin{figure}[H]
+\begin{tcolorbox}
+	\centering
+	\begin{tikzpicture}
+		\node[draw=svart,fill=brunt,rectangle,minimum size=10cm] (brunt) at (0,0) {};
+	\end{tikzpicture}
+\end{tcolorbox}
+	\caption{brúnn litur}
+	\label{mynd:brunt}
+\end{figure}
+
+\begin{quote}
+með lit moldar; \\
+(fornt/úrelt) gljáfægður, skarpur, hvass
+\end{quote}
+\clearpage
+
+% Undirkafli - afleiðslur
+\section{Afleiðslur með \textit{brúnn}}
+\label{afl:brunafl}
+\subfile{afl/brunafl}
+
+% Undirkafli - Tíðnitöflur brúnn
+\section{Tíðnitöflur samsetninga með \textit{brúnn}}
+\label{tidni:bruntid}
+\subfile{tidni/bruntid}
+
+% -----------------------------------------------------------------------------------------------------
+% Kafli - grár
+\chapter{\textit{grár}}
+\label{kafli:grar}
+
+\begin{figure}[H]
+\begin{tcolorbox}
+	\centering
+	\begin{tikzpicture}
+		\node[draw=svart,fill=gratt,rectangle,minimum size=10cm] (gratt) at (0,0) {};
+	\end{tikzpicture}
+\end{tcolorbox}
+	\caption{grár litur}
+	\label{mynd:gratt}
+\end{figure}
+
+\begin{quote}
+með blandlit hvíts og svarts, misdökkum; \\
+í ýmsum orðasamböndum; \\
+(um hest) hvítur, hvítleitur; \\
+illgjarn, rætinn, undirförull
+\end{quote}
+\clearpage
+
+% Undirkafli - afleiðslur
+\section{Afleiðslur með \textit{grár}}
+\label{afl:grafl}
+\subfile{afl/grafl}
+
+% Undirkafli - Tíðnitöflur grár
+\section{Tíðnitöflur samsetninga með \textit{grár}}
+\label{tidni:gratid}
+\subfile{tidni/gratid}
+
+% ------------------------------------------------------------------------------------------------------------------
+% Kafli - bleikur
+\chapter{\textit{bleikur}}
+\label{kafli:bleikur}
+
+\begin{figure}[H]
+\begin{tcolorbox}
+	\centering
+	\begin{tikzpicture}
+		\node[draw=svart,fill=bleikt,rectangle,minimum size=10cm] (bleikt) at (0,0) {};
+	\end{tikzpicture}
+\end{tcolorbox}
+	\caption{bleikur litur}
+	\label{mynd:bleikt}
+\end{figure}
+
+\begin{quote}
+(einkum um háralit) ljósrauður, ljósgulur; \\
+fölur; \\
+(um hest) gulbrúnn með ljósrauðri slikju
+\end{quote}
+\clearpage
+
+% Undirkafli - afleiðslur
+\section{Afleiðslur með \textit{bleikur}}
+\label{afl:bleikafl}
+\subfile{afl/bleikafl}
+
+% Undirkafli - Tíðnitöflur bleikur
+\section{Tíðnitöflur samsetninga með \textit{bleikur}}
+\label{tidni:bleiktid}
+\subfile{tidni/bleiktid}
+
+% -------------------------------------------------------------------------------------------------------------------
+% orðaskrá
+
+\printindex
 \end{document}

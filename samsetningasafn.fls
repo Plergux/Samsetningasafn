@@ -1,0 +1,1293 @@
+PWD f:\OneDrive\Documents\GitHub\Samsetningasafn
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.tex
+OUTPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.log
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\latexconfig\lualatexquotejobname.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ltluatex.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-main.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-init.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\lualibs\lualibs.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\lualibs\lualibs-basic.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\lualibs\lualibs-basic-merged.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\lualibs\lualibs-compat.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\lualibs\lualibs-extended.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\lualibs\lualibs-extended-merged.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-log.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\fontloader-basics-gen.lua
+OUTPUT C:\Users\plerg\AppData\Local\MiKTeX\2.9\m_t_x_t_e_s_t.tmp
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-parsers.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-configuration.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-status.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\fontloader-2020-08-31.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-fallback.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-multiscript.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-scripts.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\unicode-data\ScriptExtensions.txt
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\unicode-data\Scripts.txt
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-loaders.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-database.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-unicode.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\unicode-data\CaseFolding.txt
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\unicode-data\UnicodeData.txt
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-colors.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-resolvers.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-features.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-harf-define.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-harf-plug.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-letterspace.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-embolden.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-notdef.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\unicode-data\UnicodeData.txt
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\unicode-data\PropList.txt
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-suppress.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-szss.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-auxiliary.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\luatex\luaotfload\luaotfload-tounicode.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\bk12.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\bk12.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\bk12.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\bk12.clo
+INPUT C:\Users\plerg\AppData\Local\MiKTeX\2.9\luatex-cache\generic\names\luaotfload-names.luc
+INPUT C:\Users\plerg\AppData\Local\MiKTeX\2.9\luatex-cache\generic\fonts\otl\lmroman12-regular.luc
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-luatex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-luatex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-luatex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-luatex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-luatex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-luatex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse-generic.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse-generic.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec-luatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec-luatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec-luatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec-luatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec-luatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec-luatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Users\plerg\AppData\Local\MiKTeX\2.9\luatex-cache\generic\fonts\otl\lmroman12-bold.luc
+INPUT C:\Users\plerg\AppData\Local\MiKTeX\2.9\luatex-cache\generic\names\luaotfload-lookup-cache.luc
+INPUT C:\Users\plerg\AppData\Local\MiKTeX\2.9\luatex-cache\generic\fonts\otl\linlibertine-rah.luc
+INPUT C:\Users\plerg\AppData\Local\MiKTeX\2.9\luatex-cache\generic\fonts\otl\linlibertine-rbiah.luc
+INPUT C:\Users\plerg\AppData\Local\MiKTeX\2.9\luatex-cache\generic\fonts\otl\linlibertine-rbah.luc
+INPUT C:\Users\plerg\AppData\Local\MiKTeX\2.9\luatex-cache\generic\fonts\otl\linlibertine-riah.luc
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\polyglossia\polyglossia.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\polyglossia\polyglossia.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\polyglossia\polyglossia.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\polyglossia\polyglossia.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\polyglossia\polyglossia.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\polyglossia\polyglossia.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\makecmds\makecmds.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\makecmds\makecmds.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\makecmds\makecmds.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\makecmds\makecmds.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\makecmds\makecmds.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\makecmds\makecmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\keyval.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\keyval.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\luatex\luatexbase\luatexbase.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\luatex\luatexbase\luatexbase.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\luatex\luatexbase\luatexbase.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\luatex\luatexbase\luatexbase.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\luatex\luatexbase\luatexbase.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\luatex\luatexbase\luatexbase.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\luatex\ctablestack\ctablestack.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\luatex\ctablestack\ctablestack.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\luatex\ctablestack\ctablestack.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\luatex\ctablestack\ctablestack.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\luatex\ctablestack\ctablestack.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\luatex\ctablestack\ctablestack.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\polyglossia\polyglossia.lua
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\generic\config\language.dat.lua
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\polyglossia\gloss-latex.ldf
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\polyglossia\gloss-latex.ldf
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\polyglossia\gloss-latex.ldf
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\polyglossia\gloss-latex.ldf
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\polyglossia\gloss-icelandic.ldf
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\polyglossia\gloss-icelandic.ldf
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\polyglossia\gloss-icelandic.ldf
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\polyglossia\gloss-icelandic.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\hyph-utf8\patterns\txt\hyph-is.pat.txt
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\luatex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\luatex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\luatex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\luatex.def
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titletoc.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titletoc.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titletoc.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titletoc.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titletoc.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titletoc.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\subfiles\subfiles.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\subfiles\subfiles.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\subfiles\subfiles.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\subfiles\subfiles.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\subfiles\subfiles.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\subfiles\subfiles.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\import\import.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\import\import.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\import\import.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\import\import.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\import\import.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\import\import.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\imakeidx\imakeidx.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\imakeidx\imakeidx.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\imakeidx\imakeidx.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\imakeidx\imakeidx.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\imakeidx\imakeidx.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\imakeidx\imakeidx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty
+OUTPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.idx
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcolorbox.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcolorbox.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcolorbox.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcolorbox.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcolorbox.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcolorbox.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-luatex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-luatex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-luatex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-luatex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfint.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfint.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\environ\environ.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\environ\environ.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\environ\environ.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\environ\environ.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\environ\environ.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\environ\environ.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcblistings.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcblistings.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcblistingscore.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcblistingscore.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbprocessing.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbprocessing.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pdftexcmds\pdftexcmds.lua
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbskins.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbskins.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbskinsjigsaw.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbskinsjigsaw.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbbreakable.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbbreakable.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdfcol.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdfcol.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdfcol.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdfcol.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdfcol.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdfcol.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbmagazine.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbmagazine.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbraster.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbraster.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\float\float.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\float\float.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\float\float.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\float\float.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\float\float.sty
+INPUT C:\Users\plerg\AppData\Roaming\MiKTeX\2.9\tex\latex\float\float.sty
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.aux
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.aux
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.aux
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.aux
+OUTPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.aux
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.toc
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.toc
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.toc
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.toc
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
+OUTPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.pdf
+INPUT C:\Users\plerg\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+OUTPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.toc
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.lot
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.lot
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.lot
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.lot
+OUTPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.lot
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.lol
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.lol
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.lol
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.lol
+OUTPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.lol
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.lof
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.lof
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.lof
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.lof
+OUTPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.lof
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\svartafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\svartafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\svartafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\svartafl.tex
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr5.tfm
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\svartid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\svartid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\svartid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\svartid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kol.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kol.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kol.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kol.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kol.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kol.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartfugl.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartfugl.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartfugl.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartfugl.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartfugl.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartfugl.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kol.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartfugl.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hrafn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hrafn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hrafn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hrafn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hrafn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hrafn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\tinna.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\tinna.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\tinna.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\tinna.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\tinna.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\tinna.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hrafn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\tinna.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartsvanur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartsvanur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartsvanur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartsvanur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartsvanur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartsvanur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartsvanur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svertingjastrákur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svertingjastrákur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svertingjastrákur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svertingjastrákur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svertingjastrákur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svertingjastrákur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svertingjastrákur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartmetal.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartmetal.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartmetal.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartmetal.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartmetal.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartmetal.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartmetal.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartakolla.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartakolla.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartakolla.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartakolla.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartakolla.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartakolla.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartakolla.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartipollur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartipollur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartipollur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartipollur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartipollur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartipollur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svartipollur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\þokusorti.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\þokusorti.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\þokusorti.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\þokusorti.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\þokusorti.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\þokusorti.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\þokusorti.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\hvitafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\hvitafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\hvitafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\hvitafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\hvitid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\hvitid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\hvitid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\hvitid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitlaukur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitlaukur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitlaukur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitlaukur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitlaukur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitlaukur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mjoll.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mjoll.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mjoll.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mjoll.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mjoll.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mjoll.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitlaukur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mjoll.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitvodungur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitvodungur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitvodungur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitvodungur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitvodungur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitvodungur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\perlur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\perlur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\perlur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\perlur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\perlur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\perlur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitvodungur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mjolk.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mjolk.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mjolk.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mjolk.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mjolk.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mjolk.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\perlur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mjolk.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitsykur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitsykur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitsykur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitsykur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitsykur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitsykur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hvitsykur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ull.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ull.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ull.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ull.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ull.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ull.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ull.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\postulin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\postulin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\postulin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\postulin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\postulin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\postulin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\postulin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\pappir.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\pappir.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\pappir.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\pappir.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\pappir.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\pappir.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\pappir.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\vofa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\vofa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\vofa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\vofa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\vofa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\vofa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\vofa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\raudafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\raudafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\raudafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\raudafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\raudtid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\raudtid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\raudtid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\raudtid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raudvin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raudvin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raudvin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raudvin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raudvin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raudvin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\eggjarauda.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\eggjarauda.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\eggjarauda.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\eggjarauda.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\eggjarauda.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\eggjarauda.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raudvin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\eggjarauda.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ros.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ros.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ros.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ros.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ros.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ros.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ros.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raudsmari.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raudsmari.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raudsmari.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raudsmari.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raudsmari.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raudsmari.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raudsmari.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kopar.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kopar.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kopar.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kopar.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kopar.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kopar.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kopar.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\postkassi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\postkassi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\postkassi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\postkassi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\postkassi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\postkassi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\postkassi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ryd.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ryd.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ryd.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ryd.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ryd.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ryd.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ryd.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\vampiruraudur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\vampiruraudur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\vampiruraudur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\vampiruraudur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\vampiruraudur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\vampiruraudur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\vampiruraudur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\gulafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\gulafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\gulafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\gulafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\gultid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\gultid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\gultid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\gultid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulrot.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulrot.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulrot.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulrot.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulrot.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulrot.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulrofa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulrofa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulrofa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulrofa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulrofa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulrofa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulrot.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulrofa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hor.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hor.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hor.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hor.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hor.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hor.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulbrondottur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulbrondottur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulbrondottur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulbrondottur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulbrondottur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulbrondottur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\hor.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gulbrondottur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\okkur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\okkur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\okkur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\okkur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\okkur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\okkur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\okkur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brennisteinn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brennisteinn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brennisteinn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brennisteinn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brennisteinn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brennisteinn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brennisteinn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\saffran.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\saffran.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\saffran.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\saffran.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\saffran.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\saffran.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\saffran.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sina.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sina.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sina.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sina.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sina.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sina.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sina.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\graenafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\graenafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\graenafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\graenafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\graentid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\graentid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\graentid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\graentid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mosi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mosi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mosi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mosi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mosi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mosi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mosi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\jadi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\jadi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\jadi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\jadi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\jadi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\jadi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\jadi.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\thari.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\thari.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\thari.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\thari.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\thari.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\thari.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\thari.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sundlaug.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sundlaug.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sundlaug.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sundlaug.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sundlaug.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sundlaug.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sundlaug.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\spinat.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\spinat.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\spinat.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\spinat.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\spinat.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\spinat.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\spinat.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\blafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\blafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\blafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\blafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\blatid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\blatid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\blatid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\blatid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\blafjoll.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\blafjoll.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\blafjoll.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\blafjoll.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\blafjoll.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\blafjoll.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\blalanga.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\blalanga.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\blalanga.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\blalanga.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\blalanga.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\blalanga.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\blafjoll.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\blalanga.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\turkis.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\turkis.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\turkis.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\turkis.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\turkis.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\turkis.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\turkis.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kobalt.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kobalt.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kobalt.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kobalt.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kobalt.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kobalt.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kobalt.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\klaki.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\klaki.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\klaki.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\klaki.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\klaki.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\klaki.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\klaki.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\lupinur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\lupinur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\lupinur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\lupinur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\lupinur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\lupinur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\lupinur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\strumpur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\strumpur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\strumpur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\strumpur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\strumpur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\strumpur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\strumpur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\uthaf.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\uthaf.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\uthaf.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\uthaf.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\uthaf.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\uthaf.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\uthaf.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\brunafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\brunafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\brunafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\brunafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\bruntid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\bruntid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\bruntid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\bruntid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunegg.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunegg.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunegg.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunegg.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunegg.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunegg.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunegg.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunterta.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunterta.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunterta.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunterta.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunterta.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunterta.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunterta.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunhaerdur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunhaerdur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunhaerdur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunhaerdur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunhaerdur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunhaerdur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\brunhaerdur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\karamellur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\karamellur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\karamellur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\karamellur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\karamellur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\karamellur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\karamellur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\cappuchino.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\cappuchino.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\cappuchino.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\cappuchino.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\cappuchino.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\cappuchino.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\cappuchino.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\grafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\grafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\grafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\grafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\gratid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\gratid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\gratid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\gratid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\grasleppa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\grasleppa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\grasleppa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\grasleppa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\grasleppa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\grasleppa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\silfur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\silfur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\silfur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\silfur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\silfur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\silfur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\grasleppa.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\silfur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gragaes.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gragaes.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gragaes.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gragaes.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gragaes.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gragaes.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gragaes.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mys.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mys.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mys.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mys.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mys.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mys.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\mys.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\regn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\regn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\regn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\regn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\regn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\regn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\regn.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\leir.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\leir.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\leir.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\leir.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\leir.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\leir.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\leir.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gramygladur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gramygladur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gramygladur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gramygladur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gramygladur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gramygladur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\gramygladur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kopur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kopur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kopur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kopur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kopur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kopur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\kopur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\malbik.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\malbik.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\malbik.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\malbik.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\malbik.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\malbik.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\malbik.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\bleikafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\bleikafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\bleikafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\afl\bleikafl.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\bleiktid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\bleiktid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\bleiktid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\tidni\bleiktid.tex
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sjobleikja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sjobleikja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sjobleikja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sjobleikja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sjobleikja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sjobleikja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\bleikalottur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\bleikalottur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\bleikalottur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\bleikalottur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\bleikalottur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\bleikalottur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\sjobleikja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\bleikalottur.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\lax.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\lax.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\lax.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\lax.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\lax.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\lax.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\lax.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\bleikaslaufan.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\bleikaslaufan.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\bleikaslaufan.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\bleikaslaufan.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\bleikaslaufan.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\bleikaslaufan.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\bleikaslaufan.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ferskja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ferskja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ferskja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ferskja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ferskja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ferskja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\ferskja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raekja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raekja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raekja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raekja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raekja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raekja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\raekja.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\tyggjo.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\tyggjo.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\tyggjo.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\tyggjo.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\tyggjo.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\tyggjo.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\tyggjo.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\mynd\svin.jpg
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.ind
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.ind
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.ind
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.ind
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.aux
+INPUT f:\OneDrive\Documents\GitHub\Samsetningasafn\samsetningasafn.aux
