@@ -2,9 +2,11 @@
 
 Safn íslenskra litasamsetninga:
 samsetningasafn.csv
-samsetningasafn.
+samsetningasafn.xlsx
+samsetningasafn.tex
 
-Safn íslenskra litasamsetninga með málfræðilegum upplýsingum.
+
+Safn íslenskra litasamsetninga.
 Samsetningarnar eru skráðar sem tvískiptar án sérstakrar greiningar 
 á frekari orðhlutum fyrir utan litaorð: 
     t.d. van(+)virðu + roði > vanvirða + roði
